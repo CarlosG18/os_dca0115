@@ -1,0 +1,1 @@
+# Programação Não Linear - com restrições de iguadade

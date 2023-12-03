@@ -3,3 +3,4 @@ Implementações feitas na disciplina de Otimização de Sistemas - DCA0115 - UF
 
 - [Metódo SIMPLEX](https://github.com/CarlosG18/os_dca0115/tree/main/simplex/simplex.md)
 - [Problema do Transporte](https://github.com/CarlosG18/os_dca0115/tree/main/transporte/transporte.md)
+- [Programação Não Linear - restrições igualdade](https://github.com/CarlosG18/os_dca0115/tree/main/uni3/pnl.md)
